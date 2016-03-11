@@ -1,6 +1,6 @@
 # zacharym
 
-http://zach1245678910.github.io/zacharym/zachary.html
+http://zach1245678910.github.io/zacharym/zachary.html/zachary.css/zachary.js/
 <html>
   <head></head>
   <body style= "backround-color:turquoise;">
