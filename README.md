@@ -3,7 +3,7 @@
 
 <html>
   <head></head>
-  <body style= "backround-color:green;">
+  <body style= "backround-color:red;">
     <h1>
     "The official website of SkateFarm Films!  Here we show you how we make our videos, give you our ---NEW--- series, The SkateFarm          Bots, and much more!"
     </h1>
